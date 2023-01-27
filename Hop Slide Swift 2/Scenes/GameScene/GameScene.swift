@@ -107,6 +107,8 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         
         //gamescene Change
         
+        //gamescene Change 2
+        
         //----------------------------------------Start Gameplay Functions-------------------------------------
         
         //define if an iPad

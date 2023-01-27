@@ -14,8 +14,8 @@
             filePath = "Hop Slide Swift 2/Scenes/GameScene/GameScene.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "828"
-            endingLineNumber = "828"
+            startingLineNumber = "830"
+            endingLineNumber = "830"
             landmarkName = "didBegin(_:)"
             landmarkType = "7">
          </BreakpointContent>
