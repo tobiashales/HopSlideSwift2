@@ -105,7 +105,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         var iphonexgroundScrollingSpeed = scrollingSpeeds.maybeIphonexgroundScrollingSpeed
         var groundScrollingSpeed = scrollingSpeeds.maybeGroundScrollingSpeed
         
-        
+        //gamescene Change
         
         //----------------------------------------Start Gameplay Functions-------------------------------------
         
